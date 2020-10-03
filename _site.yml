@@ -1,0 +1,9 @@
+output_dir: "."
+navbar:
+  left:
+  - text: "Home"
+href: index.html
+- text: "Aura"
+href: aura.html
+- text: "Alaa"
+href: Alaa.html
