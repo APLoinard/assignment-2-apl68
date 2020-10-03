@@ -1,9 +1,10 @@
 output_dir: "."
 navbar:
+  title: Assignment 2 
   left:
   - text: "Home"
-href: index.html
-- text: "Aura"
-href: aura.html
-- text: "Alaa"
-href: Alaa.html
+    href: index.html
+  - text: "Aura"
+    href: aura.html
+  - text: "Alaa"
+    href: Alaa.html
