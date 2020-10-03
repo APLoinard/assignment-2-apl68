@@ -1,0 +1,19 @@
+---
+title: "Index"
+author: "Aura L"
+date: "10/2/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Assignment 2: Website 
+
+My name: Aura Loinard: https://github.com/APLoinard \
+Alaa Farghli:  https://github.com/ARFarghli 
+\
+\
+
+![Marching bard color guard section, 2018](/Users/aploinard/Desktop/FOTOS/Band/46488144_1922885477807300_1549115096448368640_o.jpg)
